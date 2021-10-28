@@ -1,4 +1,4 @@
 # HackerRank Staircase Problem
 
 
-![](staircase.png)
+![](../img/staircase.png)
