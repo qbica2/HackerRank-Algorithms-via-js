@@ -1,4 +1,4 @@
-#HackerRank Mini-Max Sum Problem 
+# HackerRank Mini-Max Sum Problem 
 
 
 ![](../img/min-max1.png)
